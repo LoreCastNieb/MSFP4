@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Modelado de Sistemas Fisiológicos: Sistema Endocrino'
+message: Lenguaje M; Python
+type: software
+authors:
+  - family-names: Castañeda Nieblas
+    email: Lizel010803@gmail.com
+    given-names: Lorena Lizel
+    affiliation: ' Tecnm-itt'
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/LoreCastNieb/MSFP4?tab=readme-ov-file
+repository-code: 'https://github.com/LoreCastNieb/MSFP4?tab=readme-ov-file'
+keywords:
+  - Sistema Endocrino
+  - Modelado Matematico
+  - Circuito RLC
+  - Simulacion Numerica
+  - Diagrama mecanico
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-11-17'
